@@ -7,5 +7,5 @@ public record Personagens
 {
     public int Id {get; set;}
     public string? Nome {get; set;}
-    public string? Imagens {get; set;}
+    public string? Imagem {get; set;}
 }
